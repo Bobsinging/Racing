@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', cursive;
+}
+
+.game {
+    /* Set background image or color */
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/* Other styling rules for game elements (score, high score, etc.) */
+
+/* ... */
